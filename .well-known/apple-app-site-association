@@ -1,13 +1,17 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "L52U8QLWS7.ai.FMFitness.graupel" ],
-             "components": []
-           }
-       ]
-   },
-    "appclips": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "L52U8QLWS7.ai.FMFitness.graupel",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["L52U8QLWS7.ai.FMFitness.graupel"]
+  },
+  "appclips": {
         "apps": ["L52U8QLWS7.ai.MFitness.graupel.Clip"]
-    }
-} 
+  }
+}
