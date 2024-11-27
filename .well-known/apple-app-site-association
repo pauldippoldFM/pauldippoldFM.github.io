@@ -1,4 +1,22 @@
 {
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "L52U8QLWS7.ai.FMFitness.graupel" ],
+             "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+               },
+               {
+                  "/": "?token=*",
+                  "comment": ""
+               },
+             ]
+           }
+       ]
+   },
     "appclips": {
         "apps": ["L52U8QLWS7.ai.MFitness.graupel.Clip"]
     }
